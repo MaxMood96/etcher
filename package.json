@@ -106,7 +106,7 @@
     "rendition": "^19.2.0",
     "resin-corvus": "^2.0.5",
     "semver": "^7.3.2",
-    "simple-progress-webpack-plugin": "^1.1.2",
+    "simple-progress-webpack-plugin": "^2.0.0",
     "sinon": "^9.0.2",
     "spectron": "^14.0.0",
     "string-replace-loader": "^3.0.1",
@@ -122,7 +122,7 @@
     "uuid": "^8.1.0",
     "webpack": "^5.11.0",
     "webpack-cli": "^4.2.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^4.0.0"
   },
   "versionist": {
     "publishedAt": "2021-09-20T10:42:04.882Z"
