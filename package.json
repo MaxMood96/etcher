@@ -108,7 +108,7 @@
     "semver": "^7.3.2",
     "simple-progress-webpack-plugin": "^1.1.2",
     "sinon": "^9.0.2",
-    "spectron": "^14.0.0",
+    "spectron": "^16.0.0",
     "string-replace-loader": "^3.0.1",
     "style-loader": "^2.0.0",
     "styled-components": "^5.1.0",
