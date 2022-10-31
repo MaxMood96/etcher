@@ -1,2 +1,4 @@
 awscli==1.11.87
 shyaml==0.5.0
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
