@@ -103,7 +103,7 @@
     "react-dom": "16.8.5",
     "react-i18next": "11.18.6",
     "redux": "4.2.0",
-    "rendition": "19.3.2",
+    "rendition": "31.0.0",
     "semver": "7.3.8",
     "simple-progress-webpack-plugin": "1.1.2",
     "sinon": "9.2.4",
