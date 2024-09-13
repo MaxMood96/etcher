@@ -94,7 +94,7 @@
     "node-loader": "^2.0.0",
     "omit-deep-lodash": "1.1.7",
     "pkg": "^5.8.1",
-    "sinon": "17.0.1",
+    "sinon": "19.0.0",
     "string-replace-loader": "3.1.0",
     "style-loader": "3.3.3",
     "ts-loader": "^9.5.1",
